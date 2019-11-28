@@ -8,7 +8,7 @@ date: 2019-12-09
 location: "Munich, Germany"
 ---
 
-<a href="/files/talks/2019/compilerSummit-2019.pdf" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-file fa-2x"></i></span> Poster</a>
+<a href="/files/talks/2019/Google-Summit-2019.pdf" style="margin-right:1em; text-decoration: none;"><span class="fa-stack fa-1x"><i class="fa fa-file fa-2x"></i></span> Poster</a>
 
 Optimizing programs to run efficiently on modern parallel hardware is hard but crucial for many applications. The predominantly used imperative languages - like C or OpenCL - force the programmer to intertwine the code describing functionality and optimizations. This results in a nightmare for portability which is particularly problematic given the accelerating trend towards specialized hardware devices to further increase efficiency.
 
