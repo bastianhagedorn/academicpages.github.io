@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the computer science department at the [University of Münster](https://www.uni-muenster.de/en/) in Germany.
+I am a fourth-year PhD student in the computer science department at the [University of Münster](https://www.uni-muenster.de/en/) in Germany.
 I am part of the [Parallel and Distributed Systems group](https://www.uni-muenster.de/PVS/en/index.html) supervised by Professor Sergei Gorlatch.
 Ever since my master studies, I have been actively contributing to the [Lift Project](http://www.lift-project.org) in collaboration with Dr Michel Steuwer (University of Glasgow) and Dr Christophe Dubach (University of Edinburgh) and performed multiple successful research visits every year.
-I am interested in code generation and compilers for parallel systems with a special focus on [stencil computations](http://www.lift-project.org/stencils) and program optimization using rewrite rules.
+More recently, I'm working as one of the main developers on [Rise](https://github.com/rise-lang), a spiritual successor to Lift, and I'm the leading developer of [Elevate](https://github.com/elevate-lang) a language for specifying optimization strategies.
+I am generally interested in code generation and compilers for parallel systems with a special focus on [stencil computations](http://www.lift-project.org/stencils) and [program optimization using rewrite rules](https://bastianhagedorn.github.io/files/talks/2019/Google-Summit-2019.pdf).
 
 You can find my CV on [GitHub](https://github.com/bastianhagedorn/cv/blob/master/hagedorn_cv.pdf).
 
