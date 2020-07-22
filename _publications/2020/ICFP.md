@@ -1,8 +1,8 @@
 ---
 title: "Achieving High-Performance the Functional Way - A Functional Pearl on Expressing High-Performance Optimizations as Rewrite Strategies"
 collection: publications
-type: "Arxiv"
-date: 2020-02-05
+type: "Conference"
+date: 2020-07-22
 authors: "<b>Bastian Hagedorn</b>, Johannes Lenfers, Thomas Koehler, Xueying Qin, Sergei Gorlatch, and Michel Steuwer"
 venue: "ICFP'20"
 venue-url: "https://icfp20.sigplan.org/"
