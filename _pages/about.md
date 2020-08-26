@@ -8,21 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student in the computer science department at the [University of Münster](https://www.uni-muenster.de/en/) in Germany.
-I am part of the [Parallel and Distributed Systems group](https://www.uni-muenster.de/PVS/en/index.html) supervised by Professor Sergei Gorlatch.
-Ever since my master studies, I have been actively contributing to the [Lift Project](http://www.lift-project.org) in collaboration with Dr Michel Steuwer (University of Glasgow) and Dr Christophe Dubach (University of Edinburgh) and performed multiple successful research visits every year.
-More recently, I'm working as one of the main developers on [Rise](https://github.com/rise-lang), a spiritual successor to Lift, and I'm the leading developer of [Elevate](https://github.com/elevate-lang) a language for specifying optimization strategies.
-I am generally interested in code generation and compilers for parallel systems with a special focus on [stencil computations](http://www.lift-project.org/stencils) and [program optimization using rewrite rules](https://bastianhagedorn.github.io/files/talks/2019/Google-Summit-2019.pdf).
+Hi, I'm Bastian Hagedorn. I'm a compiler developer at NVIDIA and I focus on high-performance code generation and optimizations for deep learning applications. 
+
+I recently graduated from the [University of Münster](https://www.uni-muenster.de/en/) in Germany where I worked on achieving [High-Performance Domain-Specific Compilation without Domain-Specific Compilers](/publications/2020/thesis).
+I'm generally interesting in all things related to compilation, program optimization, and parallel programming. 
+I have a background in [compiler construction](/publications/2020/arxiv-fireiron) and [rewrite-based optimization](/publications/2020/ICFP).
 
 You can find my CV on [GitHub](https://github.com/bastianhagedorn/cv/blob/master/hagedorn_cv.pdf).
 
----
 
-Research Abstract
-======
-In my research, I aim to achieve performance-portability, that is to allow a single portable program to be executed with high performance across a diverse set of computer architectures. 
-I am tackling this ambitious challenge by proving a tool chain which combines high-level programming abstractions and modern compiler technology by exploiting application and architecture domain knowledge.
-My work on optimizing [stencil computations](/publications/2018/CGO) has shown that it is possible to have an expressive, generic high-level language in which problems are specified while at the same generating high performance code which matches or outperforms hand optimized reference implementations. 
-In the future, I plan to use these ideas to develop a flexible DSL for tensor computations which will be compiled into a novel AI domain specific IR allowing to experiment with optimizations and use modern code generation techniques to generate high performance GPU code.
 
-You can find a more detailled description of my research [here](/research).

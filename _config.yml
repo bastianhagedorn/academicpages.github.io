@@ -80,11 +80,11 @@ analytics:
 author:
   name             : "Bastian Hagedorn"
   avatar           : "hagedorn2.png"
-  bio              : "I am a PhD student at the University of Münster"
-  location         : "Münster, Germany"
+  bio              : "I develop compilers that make code run fast"
+  location         : "Ibbenbüren, Germany"
   employer         :
   googlescholar    : "https://scholar.google.de/citations?user=9MhKeaAAAAAJ&hl=de&oi=ao"
-  email            : "b.hagedorn@wwu.de"
+  email            : "hagedornbastian@gmail.com"
   uri              :
   bitbucket        : "b_hagedorn"
   codepen          :
